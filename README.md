@@ -8,3 +8,11 @@ Helper libraries, data structures, and algorithm implementations.
 - [ ] trie  
 - [ ] skiplist  
 - [ ] sstable  
+  
+### Libraries
+- [x] go-httpclient
+- [ ] go-alog
+- [ ] go-microkit
+- [ ] go-sd
+- [ ] go-telemetry
+- [ ] go-trace
